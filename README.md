@@ -24,6 +24,8 @@
 
 ###
 ## 👩‍💻 Portifólio
+
+- [AQL Insight Dashboard do Perfil dos Cliente](https://github.com/NataliaMelendre/SQL-Insights-Dashboard-Perfil-Clientes.git)
 - [SQL Insight Dashboard de Vendas](https://github.com/NataliaMelendre/SQL-Insights-Dashboard-Vendas.git)
 - [Ebook Hello, SQL! - IA](https://github.com/NataliaMelendre/HelloSQL_Ebook.git)
 - [PodCast Multiverso Neural - IA](https://github.com/NataliaMelendre/PodCast_IA.git)
