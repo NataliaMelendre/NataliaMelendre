@@ -5,8 +5,14 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+   <a href="www.linkedin.com/in/nataliamelendre" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/NataliaMelendre/NataliaMelendre/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -14,16 +20,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<p align="left">-📍 Sou de São Paulo<br>- 🔭 Sou formada em Análise e Desenvolvimento de Sistemas e estou em transição de carreira <br>- 📚 Atualmente estou me aprofundado em Análise de Dados e Inteligência Artificial<br>- ☁️ Sou certificada com a AWS Cloud Practitioner</p>
+
+###
+## 👩‍💻 Portifólio
+- [SQL Insight Dashboard de Vendas](https://github.com/NataliaMelendre/SQL-Insights-Dashboard-Vendas.git)
+- [Ebook Hello, SQL! - IA](https://github.com/NataliaMelendre/HelloSQL_Ebook.git)
+- [PodCast Multiverso Neural - IA](https://github.com/NataliaMelendre/PodCast_IA.git)
+- [Estoque em Java](https://github.com/NataliaMelendre/estoque-java.git)
+- [Calculadora de Binários em Python](https://github.com/NataliaMelendre/calculadora-binario.git)
 
 ###
 
-<p align="left">Sou de São Paulo<br><br>- 🔭 Estou em transição de carreira <br>- 📚 Atualmente estou me aprofundado em Análise de Dados e Inteligência Artificial<br>- ☁️ Sou certificada com a AWS Cloud Practitioner</p>
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Linguagens e Ferramentas
 
 ###
 
@@ -38,11 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/NataliaMelendre/NataliaMelendre/output/snake.svg" alt="Snake animation" />
-
-###
